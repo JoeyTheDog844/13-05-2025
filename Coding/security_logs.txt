@@ -1,0 +1,48 @@
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-04-28 18:57:09
+
+Windows Defender
+
+Windows Firewall Status:
+Domain Profile: Enabled
+Private Profile: Enabled
+Public Profile: Enabled
+
+Last Windows Defender Scan Time: 27 April 2025 22:52:38
+
+USB Access: Allowed
+
+AutoPlay Status: AutoPlay is Enabled
+
+Remote Desktop Protocol (RDP): Disabled (RDP is OFF)
+
+Telnet: Not Installed
+
+Default Share: Enabled (Security Risk)
+
+Shared Folders: Configured (Security Risk) - Users
+
+Passwords not saved in system: Passwords Saved (See Credential Manager)
+
+BIOS Password May Be Set (Check BIOS Manually)  
+
+Windows Login Password Set (User: amaan)
+
+Password Policy: Weak Password Policy (Minimum length is 0)
+
+System Lockout Policy: No Lockout Policy (Accounts never lock)
+
+Open Ports: Port 49666 (TCP) - Unknown, Port 49667 (TCP) - Unknown, Port 139 (TCP) - NetBIOS, Port 49669 (TCP) - Unknown, Port 135 (TCP) - RPC, Port 49671 (TCP) - Unknown, Port 49668 (TCP) - Unknown, Port 445 (TCP) - SMB
+
+UDP Services: Port 64026 (UDP) - Unknown - Process IDs: 10004
+Port 63908 (UDP) - Unknown - Process IDs: 4488
+Port 58732 (UDP) - Unknown - Process IDs: 2624
+Port 50810 (UDP) - Unknown - Process IDs: 9460
+Port 5355 (UDP) - Unknown - Process IDs: 2624
+Port 5353 (UDP) - mDNS - Process IDs: 2624, 11488, 4488
+Port 1900 (UDP) - UPnP - Process IDs: 16324, 10004
+
+-------------------------------------
+
